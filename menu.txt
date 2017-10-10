@@ -2,3 +2,4 @@ samsoa
 idli
 utapam
 veg biryani
+veg pakoda
