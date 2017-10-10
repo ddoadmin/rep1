@@ -4,3 +4,4 @@ corn flour
 flour
 salt
 onion
+tomato
